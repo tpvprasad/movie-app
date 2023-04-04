@@ -1,0 +1,12 @@
+/* @import url('https://img.freepik.com/free-photo/movie-background-collage_23-2149876003.jpg'); */
+@import url("https://yamaha-motor-robotics.de/wp-content/uploads/revslider/smt-home-slider-jan-2023/smt-slider-02-background-2023.jpg");
+
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+    /* margin: 20px; */
+    gap: 50px;
+    align-items: center;
+    /* background: url('https://img.freepik.com/free-photo/movie-background-collage_23-2149876003.jpg'); */
+    background: url("https://yamaha-motor-robotics.de/wp-content/uploads/revslider/smt-home-slider-jan-2023/smt-slider-02-background-2023.jpg");
+  }
